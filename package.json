@@ -1,0 +1,21 @@
+{
+    "name": "crudjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mbutumary/crudjs.git"
+    },
+    "author": "Mary Mbutu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mbutumary/crudjs/issues"
+    },
+    "homepage": "https://github.com/mbutumary/crudjs#readme"
+}
